@@ -1,4 +1,12 @@
-### Hi there 👋
+### - 👋 Hi, I'm Yoo-Ji Kim
+### - :mag: I'm interested in True Crime
+### - :computer: I'm currently learning how to code
+### - :hibiscus: I'm originally from Hawai'i
+### - :sunglasses: I'm a SENIOR in Electrical Engineering
+### - :pencil2: I chose my major because I like math
+### - :zzz: A fun fact about me is: The longest I've slept without waking up is 19 hours
+### - 🤔 What do I want to learn from EE 205? How to be comfortable with coding
+### - :+1: A book or movie I'd recommend is: Kung Fu Hustle
 
 <!--
 **Yoo-Ji/Yoo-Ji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
